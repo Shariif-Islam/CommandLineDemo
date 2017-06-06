@@ -1,10 +1,3 @@
-//
-//  PlanetarySystem.swift
-//  SwiftPracticeOne
-//
-//  Created by AdBox on 5/23/17.
-//  Copyright © 2017 AdBox. All rights reserved.
-//
 
 import Foundation
 
