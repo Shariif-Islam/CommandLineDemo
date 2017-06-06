@@ -1,13 +1,5 @@
-//
-//  Helper.swift
-//  SwiftPracticeOne
-//
-//  Created by Shariif on 5/23/17.
-//  Copyright © 2017 Shariif. All rights reserved.
-//
 
 import Foundation
-
 
 func getUserInput() -> String {
 
